@@ -1,0 +1,1 @@
+export * from './interfaces/movie-db.responses';
